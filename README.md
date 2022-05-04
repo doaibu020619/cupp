@@ -82,7 +82,7 @@ Quick start
 
 ## Github import
 
-This project was imported into https://github.com/Mebus/cupp by Mebus from:  
+This project was imported into https://github.com/doaibu020619/cupp:  
 http://www.remote-exploit.org/content/cupp-3.0.tar.gz  
 http://www.remote-exploit.org/articles/misc_research__amp_code/index.html  
 to encourage further development of the tool.
@@ -102,8 +102,8 @@ to encourage further development of the tool.
   http://www.offensive-security.com  
   http://www.bolexxx.net  
 
-  * Mebus  
-    https://github.com/Mebus/  
+  * DoaIbu  
+    https://github.com/doaibu020619 
 
   * Abhro  
     https://github.com/Abhro/  
